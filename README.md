@@ -21,7 +21,6 @@ The Sample Superstore Dataset is a commonly used retail dataset containing trans
 - Customer ID
 - Region
 - Quantity purchased
-This dataset enables analysis of pricing strategies, customer purchasing behaviour, and regional sales performance.
 
 ## Insights Summary
 
